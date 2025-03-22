@@ -1,4 +1,3 @@
-Customer churn is a critical challenge for businesses. This project uses machine learning algorithms to analyze customer behavior and predict whether they are at risk of churning. The goal is to help businesses reduce churn rates by identifying at-risk customers and taking proactive measures.
 # Churn Prediction UI 
 
 ## Overview
